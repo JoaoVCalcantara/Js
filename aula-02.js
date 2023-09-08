@@ -1,0 +1,1 @@
+console.log("const nunca ira mudar, let numero variavel, const sendo muito mais lento, e o let mais ra")
